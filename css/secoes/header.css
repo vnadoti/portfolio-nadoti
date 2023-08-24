@@ -1,0 +1,101 @@
+/* FONT-SIZE 
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+-SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 32 / 48 / 64 / 80 / 96 / 112 / 128 / 160 / 176
+*/
+
+/* SECTION HEADER */
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 9.6rem;
+  background-color: var(--color-gray09);
+}
+
+/* LOGO */
+.logo{
+  height: 2.4rem;
+  cursor: pointer;
+}
+
+/* NAV */
+.main-nav ul{
+  gap: 3.2rem;
+  font: normal normal 400 2.0rem/110% 'SFprodisplay-regular', sans-serif;
+}
+
+.main-nav{
+  display: flex;
+}
+
+.main-nav-list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-nav-link:link,
+.main-nav-link:visited{
+  display: inline-block;
+  transition: all 0.3s ease-in;
+}
+
+.main-nav-link:hover,
+.main-nav-link:active{
+  display: inline-block;
+  color: var(--color-blue);
+}
+
+.nav-cta:link,
+.nav-cta:visited{
+  display: inline-block;
+  font: normal normal 400 1.7rem/110% 'Archivo', sans-serif;
+  padding: 1.2rem 2.4rem;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  background-color: var(--color-blue);
+  color: var(--color-gray00);
+}
+
+.nav-cta:hover,
+.nav-cta:active{
+  background-color: var(--color-gray01);
+  color: var(--color-blue);
+}
+
+/* MOBILE NAV */
+
+.btn-mobile-nav{
+  border: none;
+  background: none;
+  cursor: pointer;
+  
+  /*by Default  */
+  display: none;
+}
+
+.icon-mobile-nav{
+  font-size: 4.8rem;
+  color: var(--color-blue);
+}
+
+.icon-mobile-nav[name="close"]{
+  display: none;
+}
+
+/*  NAV FIXED */
+.sticky .header{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--color-gray09);
+  z-index: 999;
+  height: 9.6rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  box-shadow: 0 0.5rem 1.2rem rgba(69, 69, 69, 0.071);
+}

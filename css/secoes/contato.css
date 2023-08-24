@@ -1,0 +1,128 @@
+/* FONT-SIZE 
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+-SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 32 / 48 / 64 / 80 / 96 / 112 / 128 / 160 / 176
+*/
+
+/* SECTION CONTATO */
+.section-contato{
+  padding: 4.8rem 0 4.8rem 0;
+  background-color: var(--color-gray08);
+}
+
+.contato-container{
+  max-width: 144rem;
+  margin: 0 auto;
+  padding: 0 5rem;
+  border-radius: 1.2rem;
+}
+
+.contato-headline-h2{
+  font-family: 'SFprodisplay-md',sans-serif;
+  font-size: 4.4rem;
+  font-weight: 600;
+  line-height: 110%;
+}
+
+.contato-headline-h2 span{
+  color: var(--color-blue);
+}
+
+.contato-container-box{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  background-color: var(--color-gray09);
+  border-radius: 12px;
+  padding: 10rem 2rem;
+  margin-top: 3.2rem;
+}
+
+.contato-img-box{
+  background-image: url(../../img/vnadoti-profile.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.contato-text-headline{
+  font: normal normal 600 2.8rem/120% 'SFprodisplay-regular', sans-serif;
+  color: var(--color-blue);
+  letter-spacing: 1.2px;
+  margin-left: 6.4rem;
+}
+
+/* FORM */
+
+.cta-form{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
+  row-gap: 1.6rem;
+  margin: 6.4rem 0 0 6.4rem;
+}
+
+.cta-name{
+  grid-column: 1;
+}
+
+.cta-email{
+  grid-column: 2;
+}
+
+.cta-textarea{
+  grid-column: 1 / -1;
+}
+
+.cta-btn{
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  gap: 2rem;
+}
+
+
+.cta-form label{
+  display: block;
+  font: normal normal 400 2.8rem/120% 'SFprodisplay-regular', sans-serif;
+  margin-top: 2rem;
+}
+
+.cta-form input{
+  display: block;
+  font: normal normal 400 2.8rem/120% 'SFprodisplay-regular', sans-serif;
+  border-radius: 8px;
+  height: 5rem;
+  width: 100%;
+  background-color: var(--color-gray07);
+  color: var(--color-blue);
+  margin-top: .5rem;
+  padding: 1rem;
+}
+
+.cta-form input::placeholder{
+  font: normal normal 400 1.8rem/120% 'Archivo', sans-serif;
+  opacity: 0.6;
+  padding: 1rem;
+}
+
+.cta-form textarea{
+  display: block;
+  font: normal normal 400 2.6rem/120% 'Archivo', sans-serif;
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  background-color: var(--color-gray07);
+  color: var(--color-blue);
+  resize: none;
+  margin-top: .5rem;
+  padding: 1.5rem;
+}
+
+.cta-form textarea::placeholder{
+  font: normal normal 400 2.2rem/120% 'Archivo', sans-serif;
+  opacity: 0.6;
+  padding: 1.5rem;
+}
+

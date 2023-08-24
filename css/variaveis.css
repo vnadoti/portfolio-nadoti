@@ -1,0 +1,19 @@
+/* VARIAVEIS */
+:root{
+  --color-blue: #1370EE;
+  --color-red: crimson;
+  --color-green: rgb(9, 167, 62);
+  
+  /* CINZA */
+  --color-gray00: #FFF;
+  --color-gray01: #F2F2F2;
+  --color-gray02: #e0e0e0;
+  --color-gray03: #BDBDBD;
+  --color-gray04: #828282;
+  --color-gray05: #4F4F4F;
+  --color-gray06: #333;
+  --color-gray07: #222;
+  --color-gray08: #111;
+  --color-gray09: #09090B;
+  --color-gray10: #040405;
+}

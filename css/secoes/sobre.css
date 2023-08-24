@@ -1,0 +1,123 @@
+/* FONT-SIZE 
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+-SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 32 / 48 / 64 / 80 / 96 / 112 / 128 / 160 / 176
+*/
+
+/* SECTION SOBRE */
+.section-sobre{
+  padding: 9.6rem 0 9.6rem 0;
+  position: relative;
+
+} 
+
+.sobre-container{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 122rem;
+  height: 48rem;
+  margin: 0 auto;
+  background-color: var(--color-gray09);
+  border-radius: 1.2rem;
+}
+
+/* IMG SOBRE */
+.sobre-foto{
+  margin-left: 1.6rem;
+  border-radius: 1.2rem;
+  height: 40rem;
+  width: 40rem;
+}
+
+/* TEXTOS SOBRE */
+.sobre-textos{
+  width: 60%;
+  padding-top: 4rem;
+  padding-left: 4rem;
+  align-self: flex-start;
+}
+
+.sobre-subheadline{
+  font-family: 'SFprodisplay-regular',sans-serif;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 110%;
+  margin-top: 3.2rem;
+}
+
+.sobre-subheadline span{
+  color: var(--color-blue);
+}
+
+.sobre-headline{
+  font-family: 'SFprodisplay-md',sans-serif;
+  font-size: 6.8rem;
+  font-weight: 600;
+  line-height: 110%;
+  margin-top: 3.2rem;
+  color: var(--color-blue);
+  margin-top: 0.8rem;
+}
+
+.sobre-description{
+  font-family: 'Archivo',sans-serif;
+  font-size: 2.8rem;
+  font-weight: 100;
+  line-height: 110%;
+}
+
+.sobre-paragrafo{
+  font-family: 'Archivo',sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 170%;
+  color: var(--color-gray04);
+  margin-top: 3.2rem;
+}
+
+
+
+/* SOCIAL ICONS */
+.sobre-icons{
+  display: flex;
+  width: 100%;
+  gap: 2rem;
+  margin-top: 3.4rem;
+}
+
+.ph-instagram-logo,
+.ph-linkedin-logo,
+.ph-github-logo{
+  padding: 2rem;
+  font-size: 4rem;
+  border: 1px solid var(--color-gray05);
+  border-radius: 8px;
+  transition: all 0.2s ease-in;
+}
+
+.ph-instagram-logo:hover,
+.ph-linkedin-logo:hover,
+.ph-github-logo:hover{
+  border: 1px solid var(--color-blue);
+  color: var(--color-blue);
+}
+
+/* IMG FUNDO */
+.quote-fundo{
+  position: absolute;
+  top: 900px;
+  left: 250px;
+  z-index: -1;
+  opacity: 0.7;
+  transform: rotate(5deg);
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none;
+  scale: 1.2;
+}
+

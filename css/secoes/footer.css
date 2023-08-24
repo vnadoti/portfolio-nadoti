@@ -1,0 +1,32 @@
+/* FONT-SIZE 
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+-SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 32 / 48 / 64 / 80 / 96 / 112 / 128 / 160 / 176
+*/
+
+/* SECTION FOOTER */
+.section-footer{
+  background-color: var(--color-gray09);
+}
+
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5rem 5rem;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.footer-text{
+  font-family: 'SFprodisplay-regular',sans-serif;
+  font-size: 2.0rem;
+  font-weight: 400;
+  line-height: 110%;
+  margin-bottom: 5px;
+}
+
+.footer-text a{
+  color: var(--color-blue);
+}
