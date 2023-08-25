@@ -1,8 +1,7 @@
 
 ![Logo](https://i.postimg.cc/0Q002c9S/logo.pngg)
 
-
-
+<hr>
 
 ![Capa](https://i.postimg.cc/TYVX6LyD/Capa.png)
 
@@ -15,7 +14,9 @@ Será constantemente atualizado e implementado com novas tecnologias, design e f
 
 ## 📸 Demonstração
 
-![Capa](https://i.postimg.cc/gc3b8SVh/desktop.gif)
+  <img align="center" alt="Desktop"  width="100%" src="https://s11.gifyu.com/images/SgdXH.gif">
+
+
 
 
 ## 🤯 Aprendizados
@@ -33,6 +34,16 @@ foi um problema que consegui solucionar.
 - Testando Performance com o Lighthouse
 
 Estou contente com o resultado final, obtive muito conhecimento e experiência que vou aprimorar em projetos futuros!
+
+## ⚙️ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+<div style="display: inline_block">
+	 <img align="center" alt="Nadoti-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 	<img align="center" alt="Nadoti-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nadoti-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
 
 ## 🗣️ Feedback
 
