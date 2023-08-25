@@ -65,7 +65,7 @@
 /* IMG FUNDO */
 .vetrovian-fundo{
   position: absolute;
-  top: 1510px;
+  top: -250px;
   left: 500px;
   z-index: -1;
   opacity: 0.4;
