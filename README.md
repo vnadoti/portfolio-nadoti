@@ -17,7 +17,7 @@ Será constantemente atualizado e implementado com novas tecnologias, design e f
 ## 🤯 Aprendizados
 
 Esse projeto foi, de fato, o mais desafiador da minha jornada até o momento.
-Iniciei, abandonei e comecei novamente 3x em menos de uma semana pois alguns "Bugs" ocorrem e nao conseguia achar a solução!
+Iniciei, abandonei e comecei novamente 3x em menos de uma semana pois alguns "Bugs" Ocorreram e eu não conseguia achar a solução!
 O Maior desafio foi a responsividade do projeto, ainda estou aprimorando os conceitos, aparecimento de barra de rolagem horizontal
 foi um problema que consegui solucionar.
 
