@@ -17,14 +17,6 @@ Será constantemente atualizado e implementado com novas tecnologias, design e f
 
 ![Capa](https://i.postimg.cc/gc3b8SVh/desktop.gif)
 
-[![desktop.gif](https://i.postimg.cc/gc3b8SVh/desktop.gif)](https://postimg.cc/14RdZKYR)
-
-[desktop.gif](https://postimg.cc/14RdZKYR)
-
-![desktop.gif](https://i.postimg.cc/gc3b8SVh/desktop.gif)
-
-https://i.postimg.cc/gc3b8SVh/desktop.gif
-
 
 ## 🤯 Aprendizados
 
