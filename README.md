@@ -13,11 +13,15 @@ Aqui gostaria de apresentar, documentar e armazenar minhas competências, qualif
 Será constantemente atualizado e implementado com novas tecnologias, design e funcionalidades, de forma a registar a minha própria linha de evolução e aprendizagem.
 
 ## 📸 Demonstração
+<div>
+	
+### Deskop
+<img align="left" alt="Desktop"  width="70%" src="./img/demos/desktop.gif">
 
-  <img align="center" alt="Desktop"  width="100%" src="https://s11.gifyu.com/images/SgdXH.gif">
-
-
-
+### Mobile
+<img align="right" alt="Desktop"  height="20%" width="30%" src="./img/demos/mobile.gif">
+ 
+</div>
 
 ## 🤯 Aprendizados
 
