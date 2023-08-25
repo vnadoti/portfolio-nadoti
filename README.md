@@ -2,6 +2,10 @@
 ![Logo](https://i.postimg.cc/0Q002c9S/logo.pngg)
 
 
+
+
+![Capa](https://i.postimg.cc/TYVX6LyD/Capa.png)
+
 # 💻 Portfólio Victor Nadoti
 
 Este projeto de portfólio foi desenvolvido para o SNA do DevQuest.
@@ -9,9 +13,17 @@ Aqui gostaria de apresentar, documentar e armazenar minhas competências, qualif
 
 Será constantemente atualizado e implementado com novas tecnologias, design e funcionalidades, de forma a registar a minha própria linha de evolução e aprendizagem.
 
-## 📸 Screenshots
+## 📸 Demonstração
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Capa](https://i.postimg.cc/gc3b8SVh/desktop.gif)
+
+[![desktop.gif](https://i.postimg.cc/gc3b8SVh/desktop.gif)](https://postimg.cc/14RdZKYR)
+
+[desktop.gif](https://postimg.cc/14RdZKYR)
+
+![desktop.gif](https://i.postimg.cc/gc3b8SVh/desktop.gif)
+
+https://i.postimg.cc/gc3b8SVh/desktop.gif
 
 
 ## 🤯 Aprendizados
